@@ -1,4 +1,4 @@
-# Retail Inventory & Sales Analytics Dashboard
+# Retail Inventory & Sales Analytics
 
 ## Business Problem
 

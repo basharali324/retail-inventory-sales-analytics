@@ -1,0 +1,25 @@
+<svg width="1000" height="620" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="620" fill="#f7f7f7"/>
+  <text x="40" y="50" font-family="Arial" font-size="28" font-weight="bold">Retail Inventory &amp; Sales Analytics Dashboard</text>
+  <rect x="40" y="85" width="170" height="90" rx="12" fill="#ffffff" stroke="#cccccc"/>
+  <text x="60" y="120" font-family="Arial" font-size="14">Total Sales</text>
+  <text x="60" y="155" font-family="Arial" font-size="26" font-weight="bold">£184k</text>
+  <rect x="230" y="85" width="170" height="90" rx="12" fill="#ffffff" stroke="#cccccc"/>
+  <text x="250" y="120" font-family="Arial" font-size="14">Gross Margin %</text>
+  <text x="250" y="155" font-family="Arial" font-size="26" font-weight="bold">42.1%</text>
+  <rect x="420" y="85" width="170" height="90" rx="12" fill="#ffffff" stroke="#cccccc"/>
+  <text x="440" y="120" font-family="Arial" font-size="14">Stock-out SKUs</text>
+  <text x="440" y="155" font-family="Arial" font-size="26" font-weight="bold">14</text>
+  <rect x="610" y="85" width="170" height="90" rx="12" fill="#ffffff" stroke="#cccccc"/>
+  <text x="630" y="120" font-family="Arial" font-size="14">Overstock SKUs</text>
+  <text x="630" y="155" font-family="Arial" font-size="26" font-weight="bold">9</text>
+  <rect x="40" y="210" width="440" height="300" rx="12" fill="#ffffff" stroke="#cccccc"/>
+  <text x="60" y="245" font-family="Arial" font-size="18" font-weight="bold">Sales Trend</text>
+  <polyline points="70,450 140,400 210,420 280,350 350,330 420,290" fill="none" stroke="#333333" stroke-width="4"/>
+  <rect x="520" y="210" width="420" height="300" rx="12" fill="#ffffff" stroke="#cccccc"/>
+  <text x="540" y="245" font-family="Arial" font-size="18" font-weight="bold">Inventory Risk Matrix</text>
+  <circle cx="610" cy="430" r="28" fill="#dddddd"/>
+  <circle cx="700" cy="360" r="34" fill="#bbbbbb"/>
+  <circle cx="810" cy="300" r="42" fill="#999999"/>
+  <text x="40" y="570" font-family="Arial" font-size="15">Portfolio case study: SQL reporting layer + Power BI KPI design + retail inventory insight</text>
+</svg>

@@ -1,0 +1,11 @@
+product_id,product_name,category,subcategory,unit_cost,unit_price
+P001,Essential Hoodie,Apparel,Hoodies,18.0,42.0
+P002,Classic Denim Jacket,Apparel,Jackets,32.0,75.0
+P003,Everyday T-Shirt,Apparel,T-Shirts,6.0,18.0
+P004,Running Leggings,Activewear,Leggings,14.0,35.0
+P005,Training Shorts,Activewear,Shorts,9.5,24.0
+P006,Crossbody Bag,Accessories,Bags,12.0,30.0
+P007,Cotton Scarf,Accessories,Scarves,5.0,16.0
+P008,Smart Trainers,Footwear,Trainers,28.0,68.0
+P009,Ankle Boots,Footwear,Boots,34.0,82.0
+P010,Winter Coat,Apparel,Coats,55.0,130.0
